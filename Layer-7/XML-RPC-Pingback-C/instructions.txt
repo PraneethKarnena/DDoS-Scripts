@@ -1,0 +1,3 @@
+This is a pre-compiled C file. You can run directly using the command below.
+
+./xml http://example.com xml.txt 10000 3600
