@@ -1,0 +1,1 @@
+./rudy http://example.com 1 5000 proxies.txt 3600 0 %random%
