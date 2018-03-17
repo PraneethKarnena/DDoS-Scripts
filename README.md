@@ -1,4 +1,4 @@
-# Distributed Denial of Service Attack Scripts
+# Distributed Denial of Service (DDoS) Attack Scripts
 This repo consists of various DDoS scripts, collected from internet. Layer-4 and Layer-7 levels can be targeted using these scripts.
 
 Note: Scripts written in 'C' need to be compiled with GCC compiler, first.
